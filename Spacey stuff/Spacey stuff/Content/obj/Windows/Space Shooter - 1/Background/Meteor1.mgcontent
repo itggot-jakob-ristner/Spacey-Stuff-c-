@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/jakob/Documents/monogame/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/Background/Meteor1.png</SourceFile>
-  <SourceTime>2018-03-11T13:37:00.4278185+01:00</SourceTime>
-  <DestFile>C:/Users/jakob/Documents/monogame/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/Background/Meteor1.xnb</DestFile>
-  <DestTime>2018-03-11T14:11:14.5518329+01:00</DestTime>
+  <SourceFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/Background/Meteor1.png</SourceFile>
+  <SourceTime>2018-03-13T11:04:18.5580932+01:00</SourceTime>
+  <DestFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/Background/Meteor1.xnb</DestFile>
+  <DestTime>2018-03-13T12:22:25.9384941+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

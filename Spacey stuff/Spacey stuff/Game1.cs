@@ -17,9 +17,12 @@ namespace Spacey_stuff
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        Texture2D BackgroundTexture, ShipTexture, BulletTexture;
+        Texture2D BackgroundTexture, ShipTexture, BulletTexture, 
+                  enemyShip, enemyBullet;
         Settings Settings;
         Player Player;
+        List<Enemy> enemyList = new List<Enemy> { };
+
         
 
         public Game1()
@@ -41,6 +44,7 @@ namespace Spacey_stuff
         {
             // TODO: Add your initialization logic here
             Player = new Player();
+            enemyList.Add(new Enemy(this));
             IsMouseVisible = true;
             base.Initialize();
         }
@@ -65,6 +69,12 @@ namespace Spacey_stuff
             MediaPlayer.Volume = 0.3f;
             MediaPlayer.Play(song);
             MediaPlayer.IsRepeating = true;
+
+            foreach(Enemy enemy in enemyList)
+            {
+                enemy.SetTexture(Content.Load<Texture2D>("Space Shooter - 1/Ship/8"));
+                enemy.SetBulletTexture(Content.Load<Texture2D>("Space Shooter - 1/Shoot/3"));
+            }
             
 
 
@@ -93,6 +103,14 @@ namespace Spacey_stuff
             Player.Update();
             foreach (Bullet bullet in Player.GetBullets)
                 bullet.Update();
+            foreach (Enemy enemy in enemyList)
+            {
+                enemy.Update();
+                foreach (Bullet bullet in enemy.GetBulletList)
+                {
+                    bullet.Update();
+                }
+            }
             for (int i = 0; i < Player.BulletList.Count; i++)
             {
                 if (Player.BulletList[i].Pos.Y + Player.BulletList[i].GetHeight < 0)
@@ -117,11 +135,21 @@ namespace Spacey_stuff
 
             spriteBatch.Draw(BackgroundTexture, Vector2.Zero, Color.White);
 
+
+            foreach (Enemy enemy in enemyList)
+            {
+                foreach(Bullet bullet in enemy.GetBulletList)
+                {
+                    bullet.Draw(spriteBatch);
+                }
+                enemy.Draw(spriteBatch);
+
+            }
+
+
             foreach (Bullet bullet in Player.GetBullets)
-                spriteBatch.Draw(Player.GetBulletTexture, bullet.Pos, Color.White);
-
-
-
+                //spriteBatch.Draw(Player.GetBulletTexture, bullet.Pos, Color.White);
+                bullet.Draw(spriteBatch);
             //spriteBatch.Draw(Player.GetTexture, Player.Pos, Color.White);
             Player.Draw(spriteBatch);
 

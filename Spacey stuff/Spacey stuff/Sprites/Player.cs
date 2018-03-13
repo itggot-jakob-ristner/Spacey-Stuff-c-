@@ -101,7 +101,7 @@ namespace Spacey_stuff
             else if (keystate.IsKeyDown(Keys.D))
             {
                 Acc.X += Settings.PlayerAcc;
-            } // Move Rights
+            } // Move Right
             if ((keystate.IsKeyDown(Keys.Space) && bulletTimer > 20) || state.LeftButton == ButtonState.Pressed && bulletTimer > 20) 
             {
                 Shoot();

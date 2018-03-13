@@ -17,6 +17,8 @@ namespace Spacey_stuff
         Vector2 vel;
         Texture2D texture;
         Player player;
+        Enemy enemy;
+        float rotation;
 
         public Vector2 Pos => pos;
         public int GetHeight => height;
@@ -29,16 +31,32 @@ namespace Spacey_stuff
             width = texture.Width;
             height = texture.Height;
             speed = player.GetBulletVel;
-            pos = new Vector2(player.Pos.X - texture.Width / 2,
-                              player.Pos.Y - texture.Height / 2);
+            pos = player.Pos;
             vel = new Vector2((float)Math.Sin(player.Rotation) * speed, -(float)Math.Cos(player.Rotation) * speed);
+            rotation = player.Rotation;
+        }
 
-
+        public Bullet(Enemy enemy)
+        {
+            this.enemy = enemy;
+            texture = enemy.GetBulletTexture;
+            width = texture.Width;
+            height = texture.Height;
+            speed = enemy.GetBulletSpeed;
+            pos = enemy.pos;
+            vel = new Vector2((float)Math.Sin(enemy.GetRotation) * speed, -(float)Math.Cos(enemy.GetRotation) * speed);
+            rotation = enemy.GetRotation;
         }
 
         public void Update()
         {
             pos += vel;
+        }
+
+        public void Draw(SpriteBatch spriteBatch)
+        {
+            Vector2 origin = new Vector2(width / 2, height / 2);
+            spriteBatch.Draw(texture, pos, null, Color.White, rotation, origin, 1.0f, SpriteEffects.None, 0f);
         }
     }
 }

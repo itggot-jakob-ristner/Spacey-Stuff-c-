@@ -163,3 +163,169 @@ C:\Users\jakob\Documents\monogame\Spacey stuff\Spacey stuff\bin\Windows\x86\Debu
 C:\Users\jakob\Documents\monogame\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Font46x37.xnb
 C:\Users\jakob\Documents\monogame\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\5.xnb
 C:\Users\jakob\Documents\monogame\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\5.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\7.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\8.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\alert.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\bossDeath.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\bossShoot.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\darkShoot.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Death.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Gold1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Gold2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Gold3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Gold4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\Laser.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\powerUp.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\powerUp2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\powerUp3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\shoot-destroy-1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\shoot-destroy-2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Sound\shoot-destroy-3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\10.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\11.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\12.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\13.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\14.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\7.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\8.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Shoot\9.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\10.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\11.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\6b.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\7.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\8.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\9.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\jelly-2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Ship\jelly.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\1.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\2.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\3.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\4.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\5.wma
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Music\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Ball.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Bomb.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Bubble.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Crate1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Crate2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Gem1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Gem2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Gem3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Gem4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\PowerUp7.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Rocket.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\Rocket2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Item\shieldItem.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\add-score.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\EmptylLife.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\EnergieBar.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\EnergieBar2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\EnergieBarColor.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\EnergieBarColor2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\FullLife.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\HealthBar.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\HealthBarColor.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\lifeBarColor.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\LifeIcon.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\number.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\remove-score.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\HUD\shield-bar.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Explosion1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\fire.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\fx fire.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx6.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx7.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx8.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Fx9.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\shield-sprite-sheet.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Shield.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\Shield2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Fx\smoke.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\2b.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\3b.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\4b.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Black hole.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Meteor1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Meteor2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Meteor3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Meteor4.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Meteor5.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\MeteorFire.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Moon.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Planet1.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Planet2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Star.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Star2.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Background\Stars.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\16-bit-wallpaper-3.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Font20x20.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Content\Space Shooter - 1\Font46x37.xnb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Spacey stuff.exe
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\Spacey stuff.pdb
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\obj\x86\Debug\Spacey stuff.csprojResolveAssemblyReference.cache
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\obj\x86\Debug\Spacey stuff.csproj.CoreCompileInputs.cache
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\obj\x86\Debug\Spacey stuff.csproj.CopyComplete
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\obj\x86\Debug\Spacey stuff.exe
+C:\Users\jakob.ristner\Documents\GitHub\Spacey-Stuff-c-\Spacey stuff\Spacey stuff\obj\x86\Debug\Spacey stuff.pdb
