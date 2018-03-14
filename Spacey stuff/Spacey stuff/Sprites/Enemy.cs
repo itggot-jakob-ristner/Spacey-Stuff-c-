@@ -11,7 +11,7 @@ using Microsoft.Xna.Framework.Audio;
 namespace Spacey_stuff
 {
 
-    class Enemy
+    public class Enemy
     {
         private int attackSpeed;
         private Texture2D texture;
@@ -26,22 +26,23 @@ namespace Spacey_stuff
         public Vector2 pos;
         public int health;
         public List<Bullet> bulletList;
+        public Color color;
 
         public Texture2D GetTexture2D => texture;
         public Texture2D GetBulletTexture => bulletTexture;
         public int GetBulletSpeed => bulletSpeed;
         public float GetRotation => rotation;
         public List<Bullet> GetBulletList => bulletList;
+        public Rectangle GetRectangle => new Rectangle((int)pos.X - width / 2, (int)pos.Y - width / 2, width, height);
 
-
-
-        public Enemy(Game1 game)
+        public Enemy(Game1 game, List<Enemy> list)
         {
             this.game = game;
             rotation = (float)Math.PI * 1.5f;
             bulletTimer = 20;
             bulletSpeed = 5;
             speed = 1;
+            health = 100;
             bulletList = new List<Bullet> { };
             pos = new Vector2(1920, 500);
 
@@ -52,6 +53,7 @@ namespace Spacey_stuff
             this.texture = texture;
             width = texture.Width;
             height = texture.Height;
+            color = Color.White;
         }
 
         public void SetBulletTexture(Texture2D bulletTexture)
@@ -68,6 +70,7 @@ namespace Spacey_stuff
                 bulletTimer = 0;
             }
             bulletTimer++;
+            color = Color.White;
         }
 
         public void Shoot()
@@ -78,7 +81,7 @@ namespace Spacey_stuff
         public void Draw(SpriteBatch spriteBatch)
         {
             Vector2 origin = new Vector2(width / 2, height / 2);
-            spriteBatch.Draw(texture, pos, null, Color.White, rotation, origin, 1.0f, SpriteEffects.None, 0f);
+            spriteBatch.Draw(texture, pos, null, color, rotation, origin, 1.0f, SpriteEffects.None, 0f);
         }
     }
 }

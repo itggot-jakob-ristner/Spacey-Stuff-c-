@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/Sound/Gold3.wav</SourceFile>
-  <SourceTime>2018-03-13T11:04:18.7612259+01:00</SourceTime>
-  <DestFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/Sound/Gold3.xnb</DestFile>
-  <DestTime>2018-03-13T12:22:33.4240556+01:00</DestTime>
+  <SourceFile>C:/Users/jakob/Documents/Github/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/Sound/Gold3.wav</SourceFile>
+  <SourceTime>2018-03-11T13:37:02.2998173+01:00</SourceTime>
+  <DestFile>C:/Users/jakob/Documents/Github/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/Sound/Gold3.xnb</DestFile>
+  <DestTime>2018-03-13T21:38:07.9220457+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Spacey_stuff
 {
-    class Bullet
+    public class Bullet
     {
         Vector2 pos;
         int speed, width, height;
@@ -19,6 +19,8 @@ namespace Spacey_stuff
         Player player;
         Enemy enemy;
         float rotation;
+
+        public bool remove = false;
 
         public Vector2 Pos => pos;
         public int GetHeight => height;
@@ -48,6 +50,20 @@ namespace Spacey_stuff
             rotation = enemy.GetRotation;
         }
 
+        public void Update(List<Enemy> enemies)
+        {
+            pos += vel;
+            foreach (Enemy enemy in enemies)
+            {
+                if (Collide(enemy)) {
+                    enemy.color = Color.Red;
+                    Console.WriteLine("YEs");
+                    enemy.health -= player.GetDagame;
+                    remove = true;
+                }
+            }
+        }
+
         public void Update()
         {
             pos += vel;
@@ -57,6 +73,12 @@ namespace Spacey_stuff
         {
             Vector2 origin = new Vector2(width / 2, height / 2);
             spriteBatch.Draw(texture, pos, null, Color.White, rotation, origin, 1.0f, SpriteEffects.None, 0f);
+        }
+
+        bool Collide(Enemy enemy)
+        {
+            return (pos.X < enemy.GetRectangle.Right && pos.X > enemy.GetRectangle.Left &&
+                    pos.Y > enemy.GetRectangle.Top && pos.Y < enemy.GetRectangle.Bottom);
         }
     }
 }

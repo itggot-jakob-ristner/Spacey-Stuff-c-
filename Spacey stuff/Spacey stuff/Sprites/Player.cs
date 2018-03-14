@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Audio;
 
 namespace Spacey_stuff
 {
-    class Player
+    public class Player
     {
         Settings Settings = new Settings();
         Texture2D texture;
@@ -24,6 +24,7 @@ namespace Spacey_stuff
         Vector2 Vel = new Vector2(400, 500);
         Vector2 mousePos;
         float mouseAngle;
+        int damage;
 
         public List<Bullet> BulletList;
         public Texture2D GetTexture => texture;
@@ -34,6 +35,7 @@ namespace Spacey_stuff
         public int GetBulletVel => bulletspeed;
         public Texture2D GetBulletTexture => bulletText;
         public List<Bullet> GetBullets => BulletList;
+        public int GetDagame => damage;
 
         private SoundEffect shootSound;
 
@@ -58,6 +60,7 @@ namespace Spacey_stuff
         { 
             Pos = Vector2.Zero;
             BulletList = new List<Bullet> { };
+            damage = 20;
         }
 
         public void SetTexture(Texture2D texture)

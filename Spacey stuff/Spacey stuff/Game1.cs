@@ -22,6 +22,7 @@ namespace Spacey_stuff
         Settings Settings;
         Player Player;
         List<Enemy> enemyList = new List<Enemy> { };
+        public List<Enemy> GetEnemyList => enemyList;
 
         
 
@@ -44,7 +45,7 @@ namespace Spacey_stuff
         {
             // TODO: Add your initialization logic here
             Player = new Player();
-            enemyList.Add(new Enemy(this));
+            enemyList.Add(new Enemy(this, enemyList));
             IsMouseVisible = true;
             base.Initialize();
         }
@@ -100,9 +101,6 @@ namespace Spacey_stuff
                 Exit();
 
             // TODO: Add your update logic here
-            Player.Update();
-            foreach (Bullet bullet in Player.GetBullets)
-                bullet.Update();
             foreach (Enemy enemy in enemyList)
             {
                 enemy.Update();
@@ -111,10 +109,18 @@ namespace Spacey_stuff
                     bullet.Update();
                 }
             }
+            Player.Update();
+            foreach (Bullet bullet in Player.GetBullets)
+                bullet.Update(enemyList);
             for (int i = 0; i < Player.BulletList.Count; i++)
             {
-                if (Player.BulletList[i].Pos.Y + Player.BulletList[i].GetHeight < 0)
+                if (Player.BulletList[i].Pos.Y + Player.BulletList[i].GetHeight < 0 || Player.BulletList[i].remove) 
                     Player.BulletList.Remove(Player.BulletList[i]);
+            }
+            for (int i = 0; i < enemyList.Count; i++)
+            {
+                if (enemyList[i].health <= 0)
+                    enemyList.Remove(enemyList[i]);
             }
             
                                 
