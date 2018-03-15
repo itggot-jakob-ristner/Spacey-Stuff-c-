@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/jakob/Documents/Github/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/HUD/EnergieBar.png</SourceFile>
-  <SourceTime>2018-03-11T13:37:00.9707621+01:00</SourceTime>
-  <DestFile>C:/Users/jakob/Documents/Github/Spacey-Stuff-c-/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/HUD/EnergieBar.xnb</DestFile>
-  <DestTime>2018-03-13T21:38:04.2567156+01:00</DestTime>
+  <SourceFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c#/Spacey stuff/Spacey stuff/Content/Space Shooter - 1/HUD/EnergieBar.png</SourceFile>
+  <SourceTime>2018-03-14T09:04:44.3100989+01:00</SourceTime>
+  <DestFile>C:/Users/jakob.ristner/Documents/GitHub/Spacey-Stuff-c#/Spacey stuff/Spacey stuff/Content/bin/Windows/Space Shooter - 1/HUD/EnergieBar.xnb</DestFile>
+  <DestTime>2018-03-14T10:20:19.522378+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

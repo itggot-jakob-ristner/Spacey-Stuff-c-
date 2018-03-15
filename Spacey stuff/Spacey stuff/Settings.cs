@@ -12,7 +12,7 @@ namespace Spacey_stuff
         public const float PlayerFric = -0.09f;
         public const int WindowWidth = 1920;
         public const int WindowHeight = 1080;
-        public const float PlayerRotAcc = 0.2f;
+        public const float PlayerRotAcc = 0.1f;
         public const float PlayerRotFric = -0.02f;
 
         public Settings() {}

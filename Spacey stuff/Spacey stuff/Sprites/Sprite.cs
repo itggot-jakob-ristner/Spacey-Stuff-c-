@@ -11,37 +11,21 @@ namespace Spacey_stuff
 {
     public class Sprite
     {
-        #region Private Feilds
+        protected Texture2D texture;
 
-        private Texture2D texture;
+        protected Vector2 pos;
+        public bool remove = false;
 
-        #endregion
+        public Rectangle Rectangle => new Rectangle((int)pos.X, (int)pos.Y, texture.Width, texture.Height);
 
-        #region Public Fields
-
-        public Vector2 Position;
-
-        #endregion
-
-        #region Public Properties
-        public Rectangle Rectangle
-        {
-            get
-            {
-                return new Rectangle((int)Position.X, (int)Position.Y,
-                                          texture.Width, texture.Height);
-            }
-        }
-        #endregion
-
-        #region Constructers
-        public Sprite(Texture2D texture)
+        public Sprite(Texture2D texture, List<List<Sprite>> spriteGroups)
         {
             this.texture = texture;
+            foreach (List<Sprite> list in spriteGroups)
+                list.Add(this);
         }
-        #endregion
 
-        #region Public Methods
+        public Sprite() { }
 
         public virtual void Update()
         {
@@ -50,8 +34,11 @@ namespace Spacey_stuff
 
         public virtual void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Draw(texture, Position, Color.White);
+            spriteBatch.Draw(texture, pos, Color.White);
         }
-        #endregion
+    }
+
+    public class Child : Sprite
+    {
     }
 }

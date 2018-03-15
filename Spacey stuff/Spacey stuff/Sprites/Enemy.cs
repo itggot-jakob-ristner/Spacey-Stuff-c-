@@ -22,6 +22,8 @@ namespace Spacey_stuff
         private int speed;
         private int bulletTimer;
         private int width, height;
+        private float size;
+        private bool remove;
 
         public Vector2 pos;
         public int health;
@@ -29,23 +31,45 @@ namespace Spacey_stuff
         public Color color;
 
         public Texture2D GetTexture2D => texture;
+        public bool Remove => remove;
         public Texture2D GetBulletTexture => bulletTexture;
         public int GetBulletSpeed => bulletSpeed;
         public float GetRotation => rotation;
         public List<Bullet> GetBulletList => bulletList;
         public Rectangle GetRectangle => new Rectangle((int)pos.X - width / 2, (int)pos.Y - width / 2, width, height);
 
-        public Enemy(Game1 game, List<Enemy> list)
+        public Enemy(Game1 game, List<Enemy> list, float size, int posY)
         {
             this.game = game;
+            this.size = size;
             rotation = (float)Math.PI * 1.5f;
             bulletTimer = 20;
             bulletSpeed = 5;
             speed = 1;
-            health = 100;
+            remove = false;
+            health = (int)(100 * size);
             bulletList = new List<Bullet> { };
-            pos = new Vector2(1920, 500);
+            pos = new Vector2(1920, posY);
 
+        }
+
+        public Enemy(Game1 game, List<Enemy> list, float size, int posY, Texture2D texture, Texture2D bulletText)
+        {
+            this.game = game;
+            this.size = size;
+            rotation = (float)Math.PI * 1.5f;
+            bulletTimer = 20;
+            bulletSpeed = 5;
+            speed = 1;
+            remove = false;
+            health = (int)(100 * size);
+            bulletList = new List<Bullet> { };
+            pos = new Vector2(1920, posY);
+            this.texture = texture;
+            width = texture.Width;
+            height = texture.Height;
+            color = Color.White;
+            bulletTexture = bulletText;
         }
 
         public void SetTexture(Texture2D texture)
@@ -63,7 +87,12 @@ namespace Spacey_stuff
 
         public void Update()
         {
+
             pos.X -= speed;
+            if (GetRectangle.Right < 0)
+            {
+                remove = true;
+            }
             if (bulletTimer > 60)
             {
                 Shoot();
@@ -75,13 +104,13 @@ namespace Spacey_stuff
 
         public void Shoot()
         {
-            bulletList.Add(new Bullet(this));
+            game.enemyBullets.Add(new Bullet(this, size));
         }
 
         public void Draw(SpriteBatch spriteBatch)
         {
             Vector2 origin = new Vector2(width / 2, height / 2);
-            spriteBatch.Draw(texture, pos, null, color, rotation, origin, 1.0f, SpriteEffects.None, 0f);
+            spriteBatch.Draw(texture, pos, null, color, rotation, origin, size, SpriteEffects.None, 0f);
         }
     }
 }

@@ -25,6 +25,9 @@ namespace Spacey_stuff
         Vector2 mousePos;
         float mouseAngle;
         int damage;
+        Game1 game;
+
+        public Color color;
 
         public List<Bullet> BulletList;
         public Texture2D GetTexture => texture;
@@ -49,15 +52,18 @@ namespace Spacey_stuff
 
         public int Health
         {
-            get { return health; }
+            get { return Health1; }
 
-            set { health = value; }
+            set { Health1 = value; }
         }
+
+        public int Health1 { get => health; set => health = value; }
 
         public Vector2 Pos;
 
-        public Player()
-        { 
+        public Player(Game1 game)
+        {
+            this.game = game;
             Pos = Vector2.Zero;
             BulletList = new List<Bullet> { };
             damage = 20;
@@ -123,7 +129,6 @@ namespace Spacey_stuff
                 bulletTimer++;
 
             mousePos = new Vector2(state.X - Pos.X, state.Y - Pos.Y);
-            Console.WriteLine(mousePos.Y);
             if (mousePos.Y  < 0)
             {
                 mouseAngle = -(float)Math.Atan(mousePos.X / -mousePos.Y);
@@ -143,8 +148,8 @@ namespace Spacey_stuff
 
             // Apply acceleratio  to velocity
             Vel += Acc;
-            //rotation += rotationAcc;
-            rotation = mouseAngle;
+            rotation += rotationAcc;
+            //rotation = mouseAngle;
             rotation %= (float)(2 * Math.PI);
 
             if (Rectangle.Left + Vel.X < 0 || Rectangle.Right + Vel.X >= Settings.WindowWidth)
@@ -157,6 +162,7 @@ namespace Spacey_stuff
             }
 
             Pos += Vel;
+            color = Color.White;
 
         }
 
@@ -174,7 +180,7 @@ namespace Spacey_stuff
         public void Draw(SpriteBatch spriteBatch)
         {
             Vector2 origin = new Vector2(width / 2, height / 2);
-            spriteBatch.Draw(texture, Pos, null, Color.White, rotation, 
+            spriteBatch.Draw(texture, Pos, null, color, rotation, 
                              origin, 1.0f, SpriteEffects.None, 0f);
         }
     }
